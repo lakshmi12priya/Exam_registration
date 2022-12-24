@@ -1,0 +1,31 @@
+*{
+    margin: 20px;
+    font-family: sans-serif;
+}
+tr:nth-child(even) {
+    background-color: #e0ebeb;
+  }
+th{
+    background-color: #6699ff;
+    color: white;
+}
+
+tr:nth-child(odd) {
+background-color: #ccddff;
+}
+.table{
+    border: 1px solid white;
+    width: max-content;
+}
+.Header h1{
+    text-align: center;
+    background-color: #c3d4f5e2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150%;
+    padding: 10px;
+}
+
+.Details h3{
+    font-size: 15px;
+    font-family: calibri;
+}
